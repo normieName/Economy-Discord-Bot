@@ -35,6 +35,14 @@ To use GambleBot, follow these steps:
 6. /donate: Donate to another user.
 7. /leaderboard: Display the leaderboard of all users on the server.
 
+##**Example Response**
+
+When a user types /blackjack, the bot might respond with:
+
+![1](https://github.com/user-attachments/assets/899af4c6-cd1e-48e8-86bb-b317c4eb6146)
+![2](https://github.com/user-attachments/assets/68be6f6f-c83e-46fe-acdc-cd534ad6772c)
+
+
 ## **License**
 
 GambleBote is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
