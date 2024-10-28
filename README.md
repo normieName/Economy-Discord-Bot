@@ -11,7 +11,7 @@ Project Title is a project that does something useful. It was created to solve a
 ## **Features**
 Game Options: Play Baccarat, Blackjack, or Coin Flip.
 Currency Options: Daily, Balance, Donate, or Leaderboard.
-User Data Management: Each user's currency status is stored in a database.
+User Data Management: Each user's currency and XP status are stored in a database.
 Commands: Easy-to-use commands for interacting with the bot and playing games.
 
 ## **Installation**
