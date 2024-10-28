@@ -1,98 +1,40 @@
-# **GambleBot README File**
+# **Gamble Discord Bot**
 
-## **GambleBot**
+## **Overview**
 
-Project Title is a description of the project and its purpose.
+Welcome to the Gamble Discord Bot! This bot allows users to engage in various gambling games, including Baccarat, Blackjack, and Coin Flip, while tracking their currency status through a secure database.
 
 ## **Introduction**
 
 Project Title is a project that does something useful. It was created to solve a particular problem, and it provides a solution that is better than the alternatives.
 
+## **Features**
+Game Options: Play Baccarat, Blackjack, or Coin Flip.
+Currency Options: Daily, Balance, Donate, or Leaderboard.
+User Data Management: Each user's currency status is stored in a database.
+Commands: Easy-to-use commands for interacting with the bot and playing games.
+
 ## **Installation**
 
-To install Project Title, follow these steps:
+To install GambleBot, follow these steps:
 
-1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
-2. Navigate to the project directory: **`cd project-title`**
-3. Install dependencies: **`npm install`**
-4. Build the project: **`npm run build`**
-5. Start the project: **`npm start`**
+1. Clone the repository: **`git clone https://github.com/normieName/GambleBot.git`**
+2. Install dependencies: **`npm install`**
+3. Configure Environment Variables: **`DISCORD_TOKEN=your_discord_bot_token & DATABASE_URL=your_database_url`** 
+4. Start the project: **`nodemon`**
 
-## **Usage**
+## **Commands**
 
-To use Project Title, follow these steps:
+To use GambleBot, follow these steps:
 
-1. Open the project in your favorite code editor.
-2. Modify the source code to fit your needs.
-3. Build the project: **`npm run build`**
-4. Start the project: **`npm start`**
-5. Use the project as desired.
-
-## **Contributing**
-
-If you'd like to contribute to Project Title, here are some guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes.
-4. Write tests to cover your changes.
-5. Run the tests to ensure they pass.
-6. Commit your changes.
-7. Push your changes to your forked repository.
-8. Submit a pull request.
+1. /balance: Check your current currency balance.
+2. /baccarat: Start a game of Baccarat.
+3. /blackjack: Start a game of Blackjack.
+4. /coinflip: Flip a coin for a chance to win or lose currency.
+5. /daily: Gain $250 (24hr cooldown).
+6. /donate: Donate to another user.
+7. /leaderboard: Display the leaderboard of all users on the server.
 
 ## **License**
 
-Project Title is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
-
-## **Authors and Acknowledgment**
-
-Project Title was created by **[Your Name](https://github.com/username)**.
-
-Additional contributors include:
-
-- **[Contributor Name](https://github.com/contributor-name)**
-- **[Another Contributor](https://github.com/another-contributor)**
-
-Thank you to all the contributors for their hard work and dedication to the project.
-
-## **Code of Conduct**
-
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **[CODE_OF_CONDUCT.md](https://www.blackbox.ai/share/CODE_OF_CONDUCT.md)** file for more information.
-
-## **FAQ**
-
-**Q:** What is Project Title?
-
-**A:** Project Title is a project that does something useful.
-
-**Q:** How do I install Project Title?
-
-**A:** Follow the installation steps in the README file.
-
-**Q:** How do I use Project Title?
-
-**A:** Follow the usage steps in the README file.
-
-**Q:** How do I contribute to Project Title?
-
-**A:** Follow the contributing guidelines in the README file.
-
-**Q:** What license is Project Title released under?
-
-**A:** Project Title is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
-
-## **Changelog**
-
-- **0.1.0:** Initial release
-- **0.1.1:** Fixed a bug in the build process
-- **0.2.0:** Added a new feature
-- **0.2.1:** Fixed a bug in the new feature
-
-## **Contact**
-
-If you have any questions or comments about Project Title, please contact **[Your Name](you@example.com)**.
-
-## **Conclusion**
-
-That's it! This is a basic template for a proper README file for a general project. You can customize it to fit your needs, but make sure to include all the necessary information. A good README file can help users understand and use your project, and it can also help attract contributors.
+GambleBote is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
