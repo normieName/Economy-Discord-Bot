@@ -35,7 +35,7 @@ To use GambleBot, follow these steps:
 6. /donate: Donate to another user.
 7. /leaderboard: Display the leaderboard of all users on the server.
 
-##**Example Response**
+## **Example Response**
 
 When a user types /blackjack, the bot might respond with:
 
