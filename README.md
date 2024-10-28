@@ -4,10 +4,6 @@
 
 Welcome to the Gamble Discord Bot! This bot allows users to engage in various gambling games, including Baccarat, Blackjack, and Coin Flip, while tracking their currency status through a secure database.
 
-## **Introduction**
-
-Project Title is a project that does something useful. It was created to solve a particular problem, and it provides a solution that is better than the alternatives.
-
 ## **Features**
 Game Options: Play Baccarat, Blackjack, or Coin Flip.
 Currency Options: Daily, Balance, Donate, or Leaderboard.
