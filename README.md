@@ -1,1 +1,1 @@
-# BlackJack-Bot
+# GambleBot
