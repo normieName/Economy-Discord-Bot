@@ -1,8 +1,8 @@
-# **Gamble Discord Bot**
+# **Economy Discord Bot**
 
 ## **Overview**
 
-Welcome to the Gamble Discord Bot! This bot allows users to engage in various gambling games, including Baccarat, Blackjack, and Coin Flip, while tracking their currency status through a secure database.
+Welcome to the Economy Discord Bot! This bot allows users to engage in various gambling games, including Baccarat, Blackjack, and Coin Flip, while tracking their currency status through a secure database.
 
 ## **Features**
 Game Options: Play Baccarat, Blackjack, or Coin Flip.
